@@ -8,7 +8,7 @@ This project is a Shiny web application for visualizing global COVID-19 confirme
 - [Installation](#installation)
 - [Usage](#usage)
 - [Visualization and Results](#visualization-and-results)
-- [Acknowledgments](#acknowledgments)
+- [Acknowledgments](#acknowledgements)
 
 ## Project Overview
 
@@ -85,7 +85,7 @@ The COVID-19 Data Dashboard provides a dynamic line plot that visualizes the tre
 
 ### Dynamic Interaction
 
-By using the app's interactive date range selector and "Update Plot" button, the plot is regenerated in real-time, offering flexibility to analyze various trends and patterns within the data.
+By using the app's interactive date range selector and "Update Plot" button, the plot is regenerated in real time, offering flexibility to analyze various trends and patterns within the data.
 
 ## Acknowledgements
 
